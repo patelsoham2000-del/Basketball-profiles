@@ -1,0 +1,5 @@
+pandas
+matplotlib
+nba_api
+notebook
+streamlit
